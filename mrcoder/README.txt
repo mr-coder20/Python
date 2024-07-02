@@ -13,3 +13,5 @@ algoritm (md5) or (sha256)
 5=gives your time and date 
 
 6=gives your public ip
+
+        🩵
